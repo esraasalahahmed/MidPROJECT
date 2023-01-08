@@ -8,3 +8,5 @@ The product category -Bikes- generate the highest revenue in all countries, but 
 The business seems not running well in USA compared to the other 3 countries. Considering the cost revenue ratio, it shows that Germany has the lowest ratio while USA has the highest. (the lowest the ratio the better) 
 Also, the ratio showed that Accesories as a product category has the highst ratio.
 Checking the profit by month, it appears that the begnning of the year is more profitable from (January to July).
+
+Tableau link: https://public.tableau.com/views/customer_spendings_analysisfinaaaal/CustomerAgevsAverageProfitbyCountry?:language=en-GB&:display_count=n&:origin=viz_share_link
